@@ -64,4 +64,4 @@ mvn exec:java -Dexec.mainClass="app.HelloWorldGuiceMainClass"
 
 ## Referencias
 
-[JSF Home](http://www.oracle.com/technetwork/java/javaee/javaserverfaces-139869.html)
+[Google Guice Wiki](https://github.com/google/guice/wiki/Motivation)
