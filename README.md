@@ -2,11 +2,10 @@
 
 Aplicación Java Web usando Google guice
 
-
 ## Prerequisitos
 
 1. Maven 3+
-2. Java 8+
+2. Java 11+
 
 ## Como correr
 

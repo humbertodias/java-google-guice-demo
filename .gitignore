@@ -59,3 +59,15 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+
+
+.classpath
+.project
+.settings
+
+
+.idea
+*.iml
+
+.gradle
+gradle*
